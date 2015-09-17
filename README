@@ -1,0 +1,3 @@
+Ported Adafruit's awesome NeoPixel library
+(https://github.com/adafruit/Adafruit_NeoPixel) to the RFduino using the
+ARM instruction set for assembly code.
